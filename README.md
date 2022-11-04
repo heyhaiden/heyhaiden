@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm currently working on my MSc at the Bartlett School's Center for Advanced Spatial Analysis. I'm looking to collaborate with researchers and academics working in climate tech and disaster and risk response. Ask me about #psychoacoustics and how to integrate more audio analysis into your products.
+I'm currently working on my MSc at the Bartlett School's Center for Advanced Spatial Analysis. I'm looking to collaborate with researchers and academics working in climate tech and disaster and risk response. 
+
+<br>Ask me about #psychoacoustics and how to integrate more audio analysis into your products.
 
 
 ## 🌐 Socials:
