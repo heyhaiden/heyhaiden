@@ -14,8 +14,8 @@ Product leader with 7+ years experience building mission-critical platforms from
 
 ### Notable Projects
 
-- **Firewall Scout**: IoT system for fire threat detection (↑30% accuracy, ↓50% response time)
-- **HighAR Ground**: AR platform for disaster preparedness (MIT Reality Virtually Hackathon Winner)
+- [**Firewall Scout**](https://github.com/heyhaiden/firewall-dissertation): IoT microclimate monitoring system for fire threat detection in the UK
+- [**HighAR Ground**](https://devpost.com/software/highar-ground): AR platform for disaster preparedness (MIT Reality Virtually Hackathon Winner)
 
 ### Connect With Me
 
