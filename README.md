@@ -1,4 +1,4 @@
-# Hello, I'm Haiden McGill 👋
+# Hey, I'm Haiden 👋
 
 ## Senior Product Manager | IoT & AI Systems | B2B Platforms
 
