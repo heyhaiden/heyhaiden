@@ -2,7 +2,7 @@
 
 ## Senior Product Manager | IoT & AI Systems | B2B Platforms
 
-Product leader with 7+ years experience building mission-critical platforms from 0→1. I specialize in IoT systems architecture, AI/ML product specs, and scaling digital platforms that deliver measurable impact.
+Product leader with 7+ years of experience building mission-critical platforms from 0→1. I specialize in IoT systems architecture, AI/ML product discovery, and scaling digital platforms that deliver measurable impact.
 
 ### What I Do
 
@@ -19,7 +19,7 @@ Product leader with 7+ years experience building mission-critical platforms from
 
 ### Connect With Me
 
-- 🌐 [Website](https://heyhaiden.vercel.app/)
+- 🌐 [Website](https://heyhaiden.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/haidenmcgill)
 - 📧 [hello@heyhaiden.com](mailto:hello@heyhaiden.com)
 
