@@ -19,7 +19,7 @@ Product leader with 7+ years of experience building mission-critical platforms f
 
 ### Connect With Me
 
-- 🌐 [Website](https://heyhaiden.github.io/)
+- 🌐 [Website](https://heyhaiden.vercel.app) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/haidenmcgill)
 - 📧 [hello@heyhaiden.com](mailto:hello@heyhaiden.com)
 
