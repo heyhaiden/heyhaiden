@@ -1,6 +1,6 @@
 # Hey, I'm Haiden 👋
 
-## Senior Product Manager | IoT & AI Systems | B2B Platforms
+## Senior Product Manager | IoT & AI Systems | B2B SaaS Platforms
 
 Product leader with 7+ years of experience building mission-critical platforms from 0→1. I specialize in IoT systems architecture, AI/ML product discovery, and scaling digital platforms that deliver measurable impact.
 
