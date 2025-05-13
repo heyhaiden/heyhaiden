@@ -22,7 +22,7 @@ I specialize in rapidly prototyping concepts, developing proof-of-concepts into 
 
 ## **Connect With Me**
 * 🌐 [Website](https://heyhaiden.vercel.app/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/heyhaiden)
+* 💼 [LinkedIn](https://www.linkedin.com/in/haidenmcgill/)
 * 📧 hello@heyhaiden.com
 
 Currently based in London, UK 🇬🇧
