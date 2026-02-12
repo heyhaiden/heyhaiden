@@ -1,19 +1,19 @@
-# **Hey, I'm Haiden** 👋
+# **Haiden McGill**
 
-## **Technical Product Leader | AI Systems | IoT Architecture | B2B SaaS**
+**Product leader building reliable AI systems** — from agentic workflows and LLM tooling to voice-first interfaces. 7+ years shipping 0→1 platforms in HealthTech, ClimateTech, and enterprise AI. I care about AI that’s useful, evaluable, and built for real users.
 
-Product leader with 7+ years of experience building mission-critical platforms from 0→1. I architect IoT systems, develop AI/ML solutions, and scale digital platforms that deliver measurable impact.
+---
 
-## **Tech Expertise**
-* 🧠 **AI Orchestration:** Designing agentic workflows and AI-enabled processes that leverage LLMs, voice interfaces, and autonomous systems for practical applications
-* 🤖 **AI Integration:** Implementing multi-modal AI technologies (voice, text, image processing) across platforms and creating seamless user experiences
-* 🚀 **SaaS Platform Development:** Scaling B2B platforms that drive significant user growth (850% increase) and revenue ($1.8M+ annually)
-* 🔧 **IoT Architecture:** Designing resilient systems for environmental monitoring with real-time alerts (92% delivery accuracy)
-* 📊 **Data-Driven Innovation:** Creating frameworks that improve user activation by 255% through systematic experimentation
+### **Where I add value**
 
-## **Connect With Me**
-* 🌐 [Website](https://heyhaiden.vercel.app/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/haidenmcgill/)
-* 📧 hello@heyhaiden.com
+- **AI systems & orchestration** — Multi-agent architectures, RAG pipelines, and evaluation frameworks (e.g. cutting manual review by 60% while improving compliance). Currently at Optimove on enterprise GenAI.
+- **Voice & multimodal AI** — Production voice agents (Whisper, ElevenLabs, Vapi), healthcare voice interfaces, and [Synthia](https://github.com/heyhaiden/synthia-dementia-voice-ai) for dementia care.
+- **Claude ecosystem** — [mcp-ag-grid](https://github.com/heyhaiden/mcp-ag-grid): headless AG Grid server for Claude Desktop — data viz, manipulation, and export in the MCP stack.
 
-Currently based in London, UK 🇬🇧
+### **Background**
+
+Ex-founder, UCL MSc (IoT & embedded AI). I prototype in code, not just specs. Based in London.
+
+---
+
+**Portfolio** · [heyhaiden.vercel.app](https://heyhaiden.vercel.app/) · **LinkedIn** · [linkedin.com/in/haidenmcgill](https://www.linkedin.com/in/haidenmcgill/) · **Email** · hello@heyhaiden.com
