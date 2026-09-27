@@ -16,4 +16,4 @@ Ex-founder, UCL MSc (IoT & embedded AI). I prototype in code, not just specs. Ba
 
 ---
 
-**Portfolio** · [heyhaiden.vercel.app](https://heyhaiden.vercel.app/) · **LinkedIn** · [linkedin.com/in/haidenmcgill](https://www.linkedin.com/in/haidenmcgill/) · **Email** · hello@heyhaiden.com
+**Portfolio** · [heyhaiden.com](https://heyhaiden.com/) · **LinkedIn** · [linkedin.com/in/haidenmcgill](https://www.linkedin.com/in/haidenmcgill/) · **Email** · hello@heyhaiden.com
