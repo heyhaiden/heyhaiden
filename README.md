@@ -1,6 +1,6 @@
 # **Haiden McGill**
 
-**Product builder for AI in regulated, high-stakes workflows.** Senior PM at Optimove, leading agentic workflows. Ex-founder, UCL MSc (IoT and embedded AI). I prototype in Claude Code, so what I propose already runs.
+**Product builder for AI in regulated, high-stakes workflows.** Senior PM at Optimove, leading agentic workflows. Ex-founder, UCL MSc (IoT and embedded AI). I prototype in code, using Claude Code, Cursor, and Vercel for full-stack builds.
 
 ---
 
