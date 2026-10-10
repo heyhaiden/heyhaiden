@@ -15,7 +15,7 @@
 
 - **[Temporal](https://github.com/heyhaiden/temporal-field-notes)**: ecologists talk while they walk a site, and Temporal fills the report fields and lists what they didn't say while they're still on site. Every value links back to the words it came from.
 - **[ClaimsIQ](https://github.com/heyhaiden/v0-ai-claims-agent)**: Claude Vision damage assessment for insurance claims, with confidence-based routing (approve, review, escalate). The agent keeps the final call.
-- **[Offbeat](https://offbeathike.com)**: a scroll-driven audio journey along the Pacific Crest Trail, built from a friend's field recordings. Designed and shipped solo.
+- **[Offbeat](https://offbeathike.com](https://github.com/heyhaiden/pct-audio-map)**: a scroll-driven audio journey along the Pacific Crest Trail, built from a friend's field recordings. Designed and shipped solo.
 - **[mcp-ag-grid](https://github.com/heyhaiden/mcp-ag-grid)**: open-source MCP server that gives Claude a headless AG Grid for data viz, filtering and export.
 - **[Synthia](https://github.com/heyhaiden/synthia-dementia-voice-ai)**: real-time voice AI for dementia-care training.
 - **[Firewall Scout](https://github.com/heyhaiden/firewall-scout-iot-system)**: IoT microclimate sensing for fire-risk detection (UCL MSc).
